@@ -10,7 +10,7 @@
               <form role="form">
               <fieldset>
               <div align="center">
-                <p><font size="5">Submitted!Thank you for attending this quiz! {{name}}</font></p>
+                <p><font size="5">Submitted,Thank you for attending this quiz! {{name}}!</font></p>
                 <p><font size="5">Your grade is {{grade}}.</font></p>
               </div>
               <a class="btn btn-lg btn-success btn-block" @click="confirm">Return to the initial page</a>
